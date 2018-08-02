@@ -25,7 +25,7 @@ a, a:visited, a:active {
 #home {
     text-align:center;
     background-color:yellow;
-    background-image:url({image:1});
+    background:orange;
     background-size: cover;
     background-position: top center;
     background-repeat:no-repeat;
@@ -40,7 +40,7 @@ a, a:visited, a:active {
     height:100%;
     width:100%;
     overflow: auto;
-    background-image:url({image:2});
+    background:gray;
     background-size: cover;
     background-position: top top;
     background-repeat:no-repeat;
